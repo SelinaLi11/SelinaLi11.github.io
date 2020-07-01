@@ -35,7 +35,7 @@ The current trimming steps are:
 - TOPHRED33: Convert quality scores to Phred-33
 - TOPHRED64: Convert quality scores to Phred-64
 
- ##### Paired-end格式
+**Paired-end格式**
 
 ```shell
 java -jar <path to trimmomatic.jar> PE [-threads <threads] [-phred33 | -phred64] [-trimlog <logFile>] <input 1> <input 2> <paired output 1> <unpaired output 1> <paired output 2> <unpaired output 2> <step 1> ...
@@ -68,6 +68,6 @@ This will perform the following:
 
 可参考: [Fastq格式说明](https://blog.csdn.net/huyongfeijoe/article/details/51613827)
 
-![判断phred33/phred64](media/phred.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1ggbkmmihjlj30j70ar74y.jpg)
 
 **:warning: 注3**: 要根据reads长度修改MINLEN参数 
