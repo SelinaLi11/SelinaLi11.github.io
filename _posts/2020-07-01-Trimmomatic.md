@@ -2,7 +2,7 @@
 layout:     post
 title:      "Trimmomatic"
 subtitle:   "质控"
-date:       2020-07-01 10:00:00
+date:       2020-07-01 16:00:00
 author:     "Meng"
 header-img:  "img/20200701-Trimmomatic.jpg"
 catalog: true
