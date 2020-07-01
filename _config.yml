@@ -103,12 +103,13 @@ page-mathjax: false
 
 
 # Friends
-#friends: [
-#    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+friends: [
+    {
+         title: "Jacqueline",
+         href: "JacquelineHu.github.io"
+     },
+     #{
 #        title: "乱序",
 #        href: "http://mida.re/"
 #    }
-#]
+]
